@@ -20,7 +20,8 @@
 
 title: Cepalium
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/cepalium/cepalium.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+post_url: "/_posts"
 
 # Build settings
 theme: minima
