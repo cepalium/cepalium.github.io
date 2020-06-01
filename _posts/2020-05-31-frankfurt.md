@@ -9,7 +9,7 @@ It was in spring and summer of 2018. The sky was high and clear, compared to the
 
 Public transportation in Frankfurt is a gift with multiple options from train, tram, bus, and flight. Besides, Frankfurt is geographically central of Germany and Europe, which helps a lot in travelling.
 
-![Frankfurt](/assets/frankfurt.jpg)
+{% include image.html url="/assets/frankfurt.png" description="A Glance of Frankfurt from Frankfurt Cathedral" %}
 
 Most importantly, my bachelor thesis was successully done with the help from supportive supervisors and dear friends.
 
