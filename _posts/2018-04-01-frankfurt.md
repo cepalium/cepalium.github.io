@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thank you, Frankfurt
+title: Frankfurt
 ---
 
 Frankfurt am Main is the first city of my journey in Germany. I was here 5 months for my bachelor thesis at Frankfurt University of Applied Sciences. It was in spring and summer of 2018. The sky was high and clear.
