@@ -9,6 +9,6 @@ Public transportation in Frankfurt is a gift with multiple options from train, t
 
 {% include image.html url="/assets/frankfurt.jpg" description="A Glance of Frankfurt from Frankfurt Cathedral" %}
 
-Most importantly, my bachelor thesis was successully defended with the help of supportive supervisors and dear friends.
+Most important, my bachelor thesis was successully defended with the help of supportive supervisors and dear friends.
 
 Thank you, Frankfurt.

@@ -19,9 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Cepalium
-baseurl: "" # the subpath of your site, e.g. /blog
+
+author:
+  name: Tuan Nguyen
+
 url: "https://cepalium.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 post_url: "/_posts"
+
+minima:
+  social_links:
+    linkedin: tuanang
+    github: cepalium
+    rss: true
 
 # Build settings
 theme: minima
