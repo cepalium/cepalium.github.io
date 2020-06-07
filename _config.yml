@@ -32,12 +32,14 @@ minima:
     github: cepalium
     rss: true
 
+# Google services
+google_analytics: UA-168736039-1
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

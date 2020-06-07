@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 "Keep your eyes on the stars and your feet on the ground.” -Theodore Roosevelt- <br/>
@@ -15,7 +15,7 @@ layout: page
 2019-09-13 &nbsp; Ostsee [post]({% post_url 2019-09-13-ostsee %}) <br/>
 2019-03-27 &nbsp; Amsterdam [post]({% post_url 2019-03-27-amsterdam %}) <br/>
 2018-10-22 &nbsp; Ilmenau [post]({% post_url 2018-10-22-ilmenau %}) <br/>
-2018-08-22 &nbsp; VGU [post]({% post_url 2018-08-22-vgu %}) <br/>
+2018-08-22 &nbsp; Vietnamese-German University [post]({% post_url 2018-08-22-vgu %}) <br/>
 2018-07-14 &nbsp; Berlin [post]({% post_url 2018-07-14-berlin %}) <br/>
 2018-06-19 &nbsp; Venice [post]({% post_url 2018-06-19-venice %}) <br/>
 2018-06-08 &nbsp; Paris [post]({% post_url 2018-06-08-paris %}) <br/>
