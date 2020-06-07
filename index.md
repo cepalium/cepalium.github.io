@@ -12,7 +12,7 @@ layout: default
 2020-01-08 &nbsp; Beijing [post]({% post_url 2020-01-08-beijing %}) <br/>
 2020-01-07 &nbsp; International Transit in Beijing [post]({% post_url 2020-01-07-transit-beijing %}) <br/>
 2019-12-14 &nbsp; Vietnam 2019 [post]({% post_url 2019-12-14-vietnam %}) <br/>
-2019-09-13 &nbsp; Ostsee [post]({% post_url 2019-09-13-ostsee %}) <br/>
+2019-09-22 &nbsp; Travemünde [post]({% post_url 2019-09-22-travemuende %}) <br/>
 2019-03-27 &nbsp; Amsterdam [post]({% post_url 2019-03-27-amsterdam %}) <br/>
 2018-10-22 &nbsp; Ilmenau [post]({% post_url 2018-10-22-ilmenau %}) <br/>
 2018-08-22 &nbsp; Vietnamese-German University [post]({% post_url 2018-08-22-vgu %}) <br/>
