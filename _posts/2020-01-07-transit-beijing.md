@@ -1,6 +1,6 @@
 ---
 layout: post
-title: International Transit in Beijing
+title: International Transit Beijing
 ---
 
 {% include image.html url="/assets/beijing-capital-international-airport.jpg" description="Beijing Capital International Airport Rooftop" %}
