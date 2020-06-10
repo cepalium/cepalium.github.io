@@ -28,6 +28,7 @@ post_url: "/_posts"
 
 minima:
   social_links:
+    email: tuan15096@gmail.com
     linkedin: tuanang
     github: cepalium
     rss: true

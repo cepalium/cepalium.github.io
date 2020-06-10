@@ -4,7 +4,6 @@ layout: default
 
 "Keep your eyes on the stars and your feet on the ground.” - Theodore Roosevelt <br/>
 "Für die Toten Wein, für die Lebenden Wasser, das ist eine Vorschrift für Fische." - Martin Luther <br/>
-The calm before the storm. After the storm the sun will shine again.
 
 2020-06-03 &nbsp; Who is the most interesting person you have ever been seated next to on an airplane? [post]({% post_url 2020-06-03-flight-quora %}) <br/>
 2020-05-30 &nbsp; Hello World <br/>
@@ -23,4 +22,4 @@ The calm before the storm. After the storm the sun will shine again.
 2018-06-08 &nbsp; Paris [post]({% post_url 2018-06-08-paris %}) <br/>
 2018-04-01 &nbsp; Frankfurt [post]({% post_url 2018-04-01-frankfurt %}) <br/>
 
-*For the past, present and future*
+*The calm, the storm, then the sun*

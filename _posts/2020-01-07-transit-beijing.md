@@ -3,7 +3,7 @@ layout: post
 title: International Transit Beijing
 ---
 
-{% include image.html url="/assets/beijing-capital-international-airport.jpg" description="Beijing Capital International Airport Rooftop" %}
+{% include image.html url="/assets/pics/beijing-capital-international-airport.jpg" description="Beijing Capital International Airport Rooftop" %}
 
 Some observations and experience from my international transit in Beijing Capital International Airport in January 2020:
 
