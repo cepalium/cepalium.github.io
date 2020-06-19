@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-"Keep your eyes on the stars and your feet on the ground.” - Theodore Roosevelt <br/>
-"Für die Toten Wein, für die Lebenden Wasser: Das ist eine Vorschrift für Fische." - Martin Luther <br/>
-"The grass is always greener on the other side." - C. J. Hawk
+Favorite quotes [goto]({% post_url 2020-05-30-quotes %}), About [goto]({% post_url 2020-05-30-about %})
 
 2020-06-03 &nbsp; Who is the most interesting person you have ever been seated next to on an airplane? [post]({% post_url 2020-06-03-flight-quora %}) <br/>
 2020-05-30 &nbsp; Hello World [post]({% post_url 2020-05-30-hello-world %}) <br/>
