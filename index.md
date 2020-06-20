@@ -7,8 +7,8 @@ Favorite quotes [goto]({% post_url 2020-05-30-quotes %}), About [goto]({% post_u
 
 2020-06-03 &nbsp; Who is the most interesting person you have ever been seated next to on an airplane? [post]({% post_url 2020-06-03-flight-quora %}) <br/>
 2020-05-30 &nbsp; Hello World [post]({% post_url 2020-05-30-hello-world %}) <br/>
-2020-03-19 &nbsp; Coronavirus Pandemic <br/>
-2020-03-09 &nbsp; Kaiserslautern <br/>
+2020-03-19 &nbsp; Coronavirus Pandemic [post]({% post_url 2020-03-19-coronavirus %}) <br/>
+2020-03-09 &nbsp; Kaiserslautern [post]({% post_url 2020-03-09-kaiserslautern %}) <br/>
 2020-01-08 &nbsp; Beijing [post]({% post_url 2020-01-08-beijing %}) <br/>
 2020-01-07 &nbsp; International Transit Beijing [post]({% post_url 2020-01-07-transit-beijing %}) <br/>
 2019-12-14 &nbsp; Vietnam 2019 [post]({% post_url 2019-12-14-vietnam %}) <br/>
