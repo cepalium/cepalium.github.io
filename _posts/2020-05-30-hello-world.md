@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 ---
 
-Prior to this space, I was running another blog page `tuannotes.com`. Everything there was already on set from the first glance: hosting by Bluehost, blogging by Wordpress. The major work could only be blog writing, and some customization.
+Prior to this page, I was running another blog `tuannotes.com`. Everything there was already on set from the first glance: hosting by Bluehost, blogging by Wordpress. The major work could only be writing blogs, and some appearance customization.
 
 {% include image.html url="/assets/pics/tuannotes.jpg" description="Snapshot of tuannotes.com then" %}
 
