@@ -11,7 +11,7 @@ I am Tuan Nguyen. My education background covers Electrical Engineering and Comp
 2020-05-30 &nbsp; Hello World [post]({% post_url 2020-05-30-hello-world %}) <br/>
 2020-03-19 &nbsp; Coronavirus Pandemic [post]({% post_url 2020-03-19-coronavirus %}) <br/>
 2020-03-09 &nbsp; Kaiserslautern [post]({% post_url 2020-03-09-kaiserslautern %}) <br/>
-2020-01-08 &nbsp; Beijing [post]({% post_url 2020-01-08-beijing %}) <br/>
+2020-01-07 &nbsp; Beijing [post]({% post_url 2020-01-07-beijing %}) <br/>
 2020-01-07 &nbsp; International Transit Beijing [post]({% post_url 2020-01-07-transit-beijing %}) <br/>
 2019-12-14 &nbsp; Vietnam 2019 [post]({% post_url 2019-12-14-vietnam %}) <br/>
 2019-09-22 &nbsp; Travemünde [post]({% post_url 2019-09-22-travemuende %}) <br/>
