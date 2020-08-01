@@ -3,7 +3,7 @@ layout: post
 title: Amsterdam
 ---
 
-A short trip in a short break. Breathtaking view of the windmills. Impressed by the Keukenhof garden.
+A trip in a short break. Breathtaking view of the windmills. Impressed by the Keukenhof garden.
 
 {% include image.html url="/assets/pics/amsterdam-canal.jpg" description="Amsterdam Canal" %}
 
