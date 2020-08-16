@@ -30,7 +30,8 @@ I am Tuan Nguyen. My education background covers Electrical Engineering and Comp
 * *"Keep moving forward."* - Walt Disney
 * *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."* - Abraham Lincoln
 * *"If I have seen further, it is by standing on the shoulders of Giants."* - Isaac Newton
-* *"There is always a bigger fish."*
-* *"The grass is always greener on the other side."*
 * *"Even the darkest night will end and the sun will rise"* - Victor Hugo
+* *"Reinvent the wheel."*
+* *"The grass is always greener on the other side."*
+* *"There is always a bigger fish."*
 * *"Für die Toten Wein, für die Lebenden Wasser: Das ist eine Vorschrift für Fische."* - Martin Luther
