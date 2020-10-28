@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hi, I am Tuan Nguyen. My education background covers Electrical Engineering and Computer Science. In free time, I once tasted a wide variety of beers to find my favorite (and it is currently Münchner Helles Bier). Cepalium is my self-created nickname, a combination of "cepa" (onion) and "alium" (garlic) in Latin.
+Hi, I am Tuan Nguyen. My education background covers Electrical Engineering and Computer Science. In free time, I once tasted a wide variety of beers to find my favorite (currently it is Münchner Helles Bier).
 
 ### Lessons
 
@@ -12,9 +12,11 @@ Hi, I am Tuan Nguyen. My education background covers Electrical Engineering and 
 * *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."* - Abraham Lincoln
 * *"If I have seen further, it is by standing on the shoulders of Giants."* - Isaac Newton
 * *"Even the darkest night will end and the sun will rise"* - Victor Hugo
+* *"You can't make an omelette without breaking eggs."*
 * *"Reinvent the wheel."*
 * *"The grass is always greener on the other side."*
 * *"There is always a bigger fish."*
+* *"Khiêm tốn bao nhiêu cũng chưa đủ, tự kiêu một chút đã là thừa."*
 * *"Für die Toten Wein, für die Lebenden Wasser: Das ist eine Vorschrift für Fische."* - Martin Luther
 
 ### Notes
