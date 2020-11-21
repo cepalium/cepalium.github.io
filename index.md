@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hi, I am Tuan Nguyen. My education background covers Electrical Engineering and Computer Science. In free time, I once tasted a wide variety of beers to find my favorite (currently it is Münchner Helles Bier).
+Hi, I am Tuan. Once in my free time, I tasted many brands of beers to find my favorite and currently it is Münchner Helles Bier.
 
 ### Lessons
 
@@ -21,6 +21,7 @@ Hi, I am Tuan Nguyen. My education background covers Electrical Engineering and 
 
 ### Notes
 
+2020-11-16 &nbsp; Linux 2020 [post]({% post_url 2020-11-16-linux %}) <br/>
 2020-06-03 &nbsp; Who is the most interesting person you have ever been seated next to on an airplane? [post]({% post_url 2020-06-03-flight-quora %}) <br/>
 2020-05-30 &nbsp; Hello World [post]({% post_url 2020-05-30-hello-world %}) <br/>
 2020-03-19 &nbsp; Coronavirus Pandemic [post]({% post_url 2020-03-19-coronavirus %}) <br/>
@@ -29,7 +30,7 @@ Hi, I am Tuan Nguyen. My education background covers Electrical Engineering and 
 2020-01-07 &nbsp; International Transit Beijing [post]({% post_url 2020-01-07-transit-beijing %}) <br/>
 2019-12-14 &nbsp; Vietnam 2019 [post]({% post_url 2019-12-14-vietnam %}) <br/>
 2019-09-22 &nbsp; Travemünde [post]({% post_url 2019-09-22-travemuende %}) <br/>
-2019-09-03 &nbsp; Linux Journey 2019 [post]({% post_url 2019-09-03-linux %}) <br/>
+2019-09-03 &nbsp; Linux 2019 [post]({% post_url 2019-09-03-linux %}) <br/>
 2019-03-27 &nbsp; Amsterdam [post]({% post_url 2019-03-27-amsterdam %}) <br/>
 2018-10-22 &nbsp; Ilmenau [post]({% post_url 2018-10-22-ilmenau %}) <br/>
 2018-08-22 &nbsp; Vietnamese-German University [post]({% post_url 2018-08-22-vgu %}) <br/>
