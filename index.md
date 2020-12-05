@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hi, I am Tuan. Once in my free time, I tasted many brands of beers to find my favorite and currently it is Münchner Helles Bier.
+Hi, I am Tuan. Once in my free time, I tasted many beers to find my favorite and currently it is Münchner Helles Bier.
 
 ### Lessons
 
@@ -12,6 +12,7 @@ Hi, I am Tuan. Once in my free time, I tasted many brands of beers to find my fa
 * *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."* - Abraham Lincoln
 * *"If I have seen further, it is by standing on the shoulders of Giants."* - Isaac Newton
 * *"Even the darkest night will end and the sun will rise"* - Victor Hugo
+* *"Little and often fills the purse"*
 * *"You can't make an omelette without breaking eggs."*
 * *"Reinvent the wheel."*
 * *"The grass is always greener on the other side."*
