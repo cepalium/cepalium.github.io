@@ -1,14 +1,8 @@
 ---
 layout: post
-title: Frankfurt
+title: Frankfurt am Main
 ---
 
-Frankfurt am Main is the first city of my journey in Germany. I was here 5 months for my bachelor thesis at Frankfurt University of Applied Sciences. It was in spring and summer of 2018. The sky was high and clear.
+Frankfurt is the first location in my Europe journey. I was there for my bachelor thesis, which was successul with tremendous support from supervisors and friends. Spring and summer of 2018, the sky was high and clear. Thank you, Frankfurt.
 
-Public transportation in Frankfurt is a gift with multiple options from train, tram, bus, and flight. Besides, Frankfurt is geographically central of Germany and Europe, which helps a lot in travelling.
-
-{% include image.html url="/assets/pics/frankfurt.jpg" description="A Glance of Frankfurt from Frankfurt Cathedral" %}
-
-Most important, my bachelor thesis was successully defended with the help of supportive supervisors and dear friends.
-
-Thank you, Frankfurt.
+{% include image.html url="/assets/pics/frankfurt.jpg" description="A Glance from Frankfurt Cathedral" %}

@@ -3,7 +3,7 @@ layout: post
 title: Amsterdam
 ---
 
-A trip in a short break. Breathtaking view of the windmills. Impressed by the Keukenhof garden.
+I visited Amsterdam for a short semester break. It is an international city, with the breathtaking windmills and Keukenhof Garden nearby.
 
 {% include image.html url="/assets/pics/amsterdam-canal.jpg" description="Amsterdam Canal" %}
 
@@ -13,4 +13,4 @@ A trip in a short break. Breathtaking view of the windmills. Impressed by the Ke
 
 {% include image.html url="/assets/pics/windmill-field.jpg" description="Zaanse Schans" %}
 
-{% include image.html url="/assets/pics/tulip-timeless.jpg" description="'Timeless' Tulip in Keukenhof" %}
+{% include image.html url="/assets/pics/tulip-timeless.jpg" description="Tulip in Keukenhof" %}

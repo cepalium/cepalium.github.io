@@ -5,36 +5,30 @@ title: Home
 
 Hi, I am Tuan. Once in my free time, I tasted many beers to find my favorite and currently it is Münchner Helles Bier.
 
-### Lessons
+### Posts
 
-* *"Keep your eyes on the stars and your feet on the ground.”* - Theodore Roosevelt
-* *"Keep moving forward."* - Walt Disney
-* *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."* - Abraham Lincoln
-* *"If I have seen further, it is by standing on the shoulders of Giants."* - Isaac Newton
-* *"Even the darkest night will end and the sun will rise"* - Victor Hugo
-* *"Little and often fills the purse"*
-* *"You can't make an omelette without breaking eggs."*
-* *"Reinvent the wheel."*
-* *"The grass is always greener on the other side."*
-* *"There is always a bigger fish."*
-* *"Khiêm tốn bao nhiêu cũng chưa đủ, tự kiêu một chút đã là thừa."*
-* *"Für die Toten Wein, für die Lebenden Wasser: Das ist eine Vorschrift für Fische."* - Martin Luther
+|:---|:---|
+| 20200603 | [Who is the most interesting person you have ever been seated next to on an airplane?]({% post_url 2020-06-03-flight-interesting-person %}) |
+| 20200319 | [Coronavirus Pandemic]({% post_url 2020-03-19-coronavirus %}) |
+| 20200309 | [Kaiserslautern]({% post_url 2020-03-09-kaiserslautern %}) |
+| 20200107 | [Beijing]({% post_url 2020-01-07-beijing %}) |
+| 20191214 | [Vietnam]({% post_url 2019-12-14-vietnam %}) |
+| 20190922 | [Travemünde]({% post_url 2019-09-22-travemuende %}) |
+| 20190327 | [Amsterdam]({% post_url 2019-03-27-amsterdam %}) |
+| 20181022 | [Ilmenau]({% post_url 2018-10-22-ilmenau %}) |
+| 20180822 | [Vietnamese German University]({% post_url 2018-08-22-vgu %}) |
+| 20180714 | [Berlin]({% post_url 2018-07-14-berlin %}) |
+| 20180619 | [Venice]({% post_url 2018-06-19-venice %}) |
+| 20180608 | [Paris]({% post_url 2018-06-08-paris %}) |
+| 20180401 | [Frankfurt]({% post_url 2018-04-01-frankfurt %}) |
 
-### Notes
 
-2020-11-16 &nbsp; Linux 2020 [post]({% post_url 2020-11-16-linux %}) <br/>
-2020-06-03 &nbsp; Who is the most interesting person you have ever been seated next to on an airplane? [post]({% post_url 2020-06-03-flight-quora %}) <br/>
-2020-05-30 &nbsp; Hello World [post]({% post_url 2020-05-30-hello-world %}) <br/>
-2020-03-19 &nbsp; Coronavirus Pandemic [post]({% post_url 2020-03-19-coronavirus %}) <br/>
-2020-03-09 &nbsp; Kaiserslautern [post]({% post_url 2020-03-09-kaiserslautern %}) <br/>
-2020-01-07 &nbsp; Beijing [post]({% post_url 2020-01-07-beijing %}) <br/>
-2019-12-14 &nbsp; Vietnam 2019 [post]({% post_url 2019-12-14-vietnam %}) <br/>
-2019-09-22 &nbsp; Travemünde [post]({% post_url 2019-09-22-travemuende %}) <br/>
-2019-09-03 &nbsp; Linux 2019 [post]({% post_url 2019-09-03-linux %}) <br/>
-2019-03-27 &nbsp; Amsterdam [post]({% post_url 2019-03-27-amsterdam %}) <br/>
-2018-10-22 &nbsp; Ilmenau [post]({% post_url 2018-10-22-ilmenau %}) <br/>
-2018-08-22 &nbsp; Vietnamese-German University [post]({% post_url 2018-08-22-vgu %}) <br/>
-2018-07-14 &nbsp; Berlin [post]({% post_url 2018-07-14-berlin %}) <br/>
-2018-06-19 &nbsp; Venice [post]({% post_url 2018-06-19-venice %}) <br/>
-2018-06-08 &nbsp; Paris [post]({% post_url 2018-06-08-paris %}) <br/>
-2018-04-01 &nbsp; Frankfurt [post]({% post_url 2018-04-01-frankfurt %})
+
+### Favorite Quotes
+
+* *Keep your eyes on the stars and your feet on the ground.* - Theodore Roosevelt
+* *Even the darkest night will end and the sun will rise* - Victor Hugo
+* *Give up or get up. Don't give up.*
+* *Keep moving forward.* - Walt Disney
+* *The grass is always greener on the other side.*
+* *Für die Toten Wein, für die Lebenden Wasser.* - Martin Luther

@@ -3,7 +3,8 @@ title: Cepalium
 author:
   name: Tuan Nguyen
 
-url: "https://cepalium.github.io"
+domain: cepalium.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://cepalium.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
 minima:
   social_links:
