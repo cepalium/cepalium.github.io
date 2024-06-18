@@ -22,8 +22,6 @@ Hi, I am Tuan. Once in my free time, I tasted many beers to find my favorite and
 | 20180608 | [Paris]({% post_url 2018-06-08-paris %}) |
 | 20180401 | [Frankfurt]({% post_url 2018-04-01-frankfurt %}) |
 
-
-
 ### Favorite Quotes
 
 * *Keep your eyes on the stars and your feet on the ground.* - Theodore Roosevelt
